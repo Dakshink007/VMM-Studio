@@ -1,0 +1,6 @@
+{
+  "name": "VMM Studio — Virtual Memory Management Simulator",
+  "description": "Interactive operating system virtual memory simulator featuring paging, address translation, page tables, and step-by-step FIFO, LRU, and Optimal page replacement algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
